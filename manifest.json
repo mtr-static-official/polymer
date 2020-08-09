@@ -1,7 +1,7 @@
 {
-  "name": "My App",
-  "short_name": "My App",
-  "description": "My App description",
+  "name": "Project M",
+  "short_name": "P.M.",
+  "description": "MTR提供的镜像服务",
   "icons": [
     {
       "src": "images/manifest/icon-192x192.png",
